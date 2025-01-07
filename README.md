@@ -17,7 +17,7 @@ Climate Analysis Dashboard is used to predict and analyse the weather condition 
 
 # Screenshots of the Project
 ![Screenshot 1](screenshot/page1/screenshot1.png)
-![Screenshot 2](
+![Screenshot 2](screenshot/page1/screenshot2.png)
 ## Dashboard
 
 
