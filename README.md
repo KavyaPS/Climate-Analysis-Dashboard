@@ -19,7 +19,7 @@ Climate Analysis Dashboard is used to predict and analyse the weather condition 
 ![Screenshot 1](screenshot/page1/screenshot1.png)
 ![Screenshot 2](screenshot/page1/screenshot2.png)
 ## Dashboard
-
+![Download the Power BI Dashboard](screenshot/page1/climate analysis dashboard - python.pbix)
 
 ## Future Plans
 
