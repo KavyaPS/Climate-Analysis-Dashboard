@@ -16,7 +16,7 @@ Climate Analysis Dashboard is used to predict and analyse the weather condition 
 - **Database:** PostgreSQL
 
 # Screenshots of the Project
-
+![Screenshot1](screenshot/page1/screenshot1.png)
 
 ## Dashboard
 
